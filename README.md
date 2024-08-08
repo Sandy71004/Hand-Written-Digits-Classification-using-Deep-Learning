@@ -3,7 +3,7 @@
 *Objective*:\
 Classify handwritten digits from the MNIST dataset using a deep learning model with a softmax activation function, and monitor training progress through accuracy and loss plots.
 
-*Key Responsibilities:*\
+*Key Responsibilities:*
 
 1.Designed and implemented a neural network model using PyTorch.\
 2.Applied softmax activation function in the output layer for multi-class classification.\
